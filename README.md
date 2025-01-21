@@ -1,5 +1,12 @@
 发布版本 1/13/2025
 
+**WIP**
+
+- uniform
+- material shader
+- permutation
+- vertex factory
+
 # 引言
 
 欢迎参加腾讯游戏引擎图形学课题培养计划！我们将从熟悉Unreal Engine开始，分别实现Compute Shader、Vertex Shader和Pixel Shader，以及最后结合Unreal渲染管线实现可微渲染。
