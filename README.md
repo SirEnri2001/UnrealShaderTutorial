@@ -7,12 +7,6 @@
 - permutation
 - vertex factory
 
-# 引言
-
-欢迎参加腾讯游戏引擎图形学课题培养计划！我们将从熟悉Unreal Engine开始，分别实现Compute Shader、Vertex Shader和Pixel Shader，以及最后结合Unreal渲染管线实现可微渲染。
-
-希望通过这次课题，可以让你更加了解虚幻引擎和DX图形API的渲染机制。如果你对于此教程/课题有意见建议，也欢迎随时联系我们。
-
 # 这不是个挑战，而是作业
 
 在这篇教程的源代码部分（仅限于列出来的文件），需要修改约8处，才会解决：编译和链接错误（包括Visual Studio报错和shader编译错误），运行报错和错误结果（从Unreal Editor启动开始）。
@@ -30,8 +24,6 @@ if(ExampleClassInstance->pField==nullptr){
 	...
 }
 ```
-
-将你的独立repo上传至Github公有仓库，将链接发至导师。
 
 # Chapter 1. 引擎编译和工程创建
 
